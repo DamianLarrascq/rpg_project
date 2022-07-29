@@ -1,7 +1,7 @@
 WIDTH = 1280
 HEIGHT = 800
 FPS = 60
-TILESIZE = 64
+TILESIZE = 32
 
 WORLD_MAP = [
 ['x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x'],
@@ -27,3 +27,7 @@ WORLD_MAP = [
 ]
 
 # x = obstacle
+# p = player
+# p =
+#   pos.x = 2 x 32 = 64
+#   pos.y = 2 x 32 = 64
